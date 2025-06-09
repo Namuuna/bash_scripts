@@ -1,0 +1,8 @@
+export BITBUCKET_USERNAME=namuuna_bat
+export BITBUCKET_PASSWORD=wonderfulcompany
+# export GITHUB_TOKEN=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
+# export GITHUB_TOKEN=
+# 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 # personal access token with repo write access
+export GITHUB_USERNAME=Namuuna
+export GITHUB_ORG_NAME=Wonderful-Agency
+export GITHUB_TEAM_NAME=agency-devs

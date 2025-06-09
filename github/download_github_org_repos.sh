@@ -3,7 +3,7 @@
 # Downloads (clones) all repositories in a GitHub organization
 
 ORG="Wonderful-Agency"
-TOKEN="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"
+TOKEN="$1"
 
 API_URL="https://api.github.com/orgs/$ORG/repos?per_page=100&type=all"
 HEADER="Accept: application/vnd.github+json"
